@@ -1,0 +1,44 @@
+body{
+    font-family:"Times New Roman";
+    width: 80%;
+    margin-left: 10%;
+}
+
+.head{
+    height: 200px;
+    margin-left: 40px;
+    width: 68%;
+    float: left;
+}
+.rigth{
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.rigth img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.left{
+    background-color: powderblue;
+    height: 500px;
+    width:30%;
+    float: left;
+    margin:1px 11px;
+}
+.content{
+    background-color: antiquewhite;
+    width: 65%;
+    height: 500px;
+    float: left;
+    margin: 1px 6px;
+}
+.body h2 {
+    margin-left: 10px;
+}
+.body p {
+    margin-left: 30px;
+}
